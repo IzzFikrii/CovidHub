@@ -35,6 +35,9 @@ Acknowledgements
 - I received inspirations from w3schools as the website gave me a ton of elements to work on while scrolling the site.
 - Used https://covid19api.com for implementing the live status
 
-Github Page Link
+Video Link For Assignment
+https://drive.google.com/file/d/1mqBFjnAfc8pJLE0QuWWY3eHpeXzcpJkj/view?usp=sharing
 
+
+Github Page Link
 https://github.com/IzzFikrii/IDAssignment2.git 
