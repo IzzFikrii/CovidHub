@@ -40,4 +40,4 @@ https://drive.google.com/file/d/1mqBFjnAfc8pJLE0QuWWY3eHpeXzcpJkj/view?usp=shari
 
 
 Github Page Link
-https://github.com/IzzFikrii/IDAssignment2.git 
+https://github.com/IzzFikrii/CovidHub.git
